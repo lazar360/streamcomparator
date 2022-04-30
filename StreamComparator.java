@@ -43,5 +43,7 @@ public class StreamComparator {
                         .min(Comparator.naturalOrder())
                         .ifPresent(number -> System.out.println("min number: " + number));
 
+
+
     }
 }
